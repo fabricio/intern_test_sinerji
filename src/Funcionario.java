@@ -15,7 +15,12 @@ public abstract class Funcionario {
     public double calcularTotalRecebido(int mes, int ano) {
         return calcularSalario(mes, ano) + calcularBeneficio(mes, ano);
     }
+
     public String getNome() {
-        return nome;
+      return nome;
+    }
+
+    public LocalDate getDataContratacao() {
+        return dataContratacao;
     }
 }
