@@ -29,7 +29,7 @@ A classe `FolhaPagamento` implementa os seguintes métodos:
 - `totalBeneficios(...)`: retorna o total pago em benefícios no mês.
 - `maiorRemuneracao(...)`: retorna o funcionário com maior remuneração total (salário + benefício).
 - `maiorBeneficio(...)`: retorna o funcionário que recebeu o maior valor em benefícios.
-- `maisVendeu(...)`: retorna o vendedor com o maior valor de vendas no mês.
+- `maiorVendedor(...)`: retorna o vendedor com o maior valor de vendas no mês.
 
 ## 🛠️ Requisitos
 
